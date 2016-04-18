@@ -1,0 +1,7 @@
+server:
+  message: Sample message!
+  port: 8443
+  ssl:
+    key-store: classpath:keystore.jks
+    key-store-password: example
+    key-password: example
